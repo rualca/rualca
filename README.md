@@ -3,11 +3,11 @@
 
 <a href="https://app.daily.dev/ruben_rnb"><img src="https://api.daily.dev/devcards/bf58dfa790374cdc9d9ac060b881aac7.png?r=ocs" width="400" alt="Rubén's Dev Card"/></a>
 
-- 🔭 I’m currently working on **Bdeo**
+- 🔭 I’m currently working on **Fourvenues**
 
 - 🌱 I’m currently learning **Tensorflow.js, Dialogflow, AWS, Nest.js, Angular and Microfrontends**
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/rualca](https://gitlab.com/rualca)
+- 👨‍💻 All of my projects are available at [https://github.com/rualca](https://github.com/rualca)
 
 - 💬 Ask me about **MongoDB, Node.js, Express, Loopback 4, Docker, NGINX...what you want**
 
