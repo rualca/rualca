@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubén Alapont</h1>
-<h3 align="center">Head of Engineering with expertise in cloud-native solutions and DevOps practices</h3>
+<h3 align="center">Head of Engineering specialized in team leadership, platform creation, AI integration and DevOps excellence</h3>
 
 <a href="https://app.daily.dev/ruben_rnb"><img src="https://api.daily.dev/devcards/bf58dfa790374cdc9d9ac060b881aac7.png?r=ocs" width="400" alt="Rubén's Dev Card"/></a>
 
