@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rubén Alapont</h1>
 <h3 align="center">Head of Engineering specialized in team leadership, platform creation, AI integration and DevOps excellence</h3>
 
-<a href="https://app.daily.dev/ruben_rnb"><img src="https://api.daily.dev/devcards/bf58dfa790374cdc9d9ac060b881aac7.png?r=ocs" width="400" alt="Rubén's Dev Card"/></a>
-
 - 🔭 I'm currently working at **Fourvenues** as **Head of Engineering**
 
 - 🌱 I'm currently learning **Machine Learning, LangChain, Generative AI, and Cloud Architecture**
